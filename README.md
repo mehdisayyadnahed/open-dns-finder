@@ -1,6 +1,7 @@
 # Open DNS Finder
 
-A lightweight, parallel DNS benchmark tool designed for finding optimal DNS resolvers for DNS-based VPNs.
+A lightweight, parallel DNS benchmark tool designed for finding optimal DNS resolvers for DNS-based VPNs Like "DNSTT", "Slipstream
+", "MasterDNS". "VayDNS".
 
 This script queries a list of DNS servers simultaneously, verifies if they resolve your specified domain to the correct target IP, and ranks the working servers from fastest to slowest.
 
